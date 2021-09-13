@@ -1,3 +1,5 @@
+Practice using useState, useEffect, dynamically changing styles with ternary operators, forms, getting data from api to learn React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
